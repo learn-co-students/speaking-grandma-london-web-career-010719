@@ -21,4 +21,3 @@ def speak_to_grandma(foobar)
     "NO, NOT SINCE 1938!"
   end
 end
-end
