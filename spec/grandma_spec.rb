@@ -21,15 +21,3 @@ describe '#speak_to_grandma' do
 
 end
 
-
-def speak_to_grandma(input)
-  if input == "I LOVE YOU GRANDMA"
-    puts "I LOVE YOU TOO PUMPKIN!"
-  end
-elsif input == "Hi Nana, how are you?"
-  puts "HUH?! SPEAK UP, SONNY!"
-end
-elsif input == "Hi!"
-  puts "HUH?! SPEAK UP SONNY!"
-end
-end
