@@ -19,5 +19,7 @@ def speak_to_grandma(foobar)
     "I LOVE YOU TOO PUMPKIN!"
   elsif foobar == "WHAT DID YOU EAT TODAY?"
     "NO, NOT SINCE 1938!"
+  elsif foobar == "WHAT?"
+    "NO, NOT SINCE 1938!"
   end
 end
